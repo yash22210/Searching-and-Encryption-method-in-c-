@@ -1,0 +1,8 @@
+C:\Users\lenovo\source\repos\Assignment3_Lab3A\Assignment3_Lab3A\bin\Debug\Assignment3_Lab3A.exe.config
+C:\Users\lenovo\source\repos\Assignment3_Lab3A\Assignment3_Lab3A\bin\Debug\Assignment3_Lab3A.exe
+C:\Users\lenovo\source\repos\Assignment3_Lab3A\Assignment3_Lab3A\bin\Debug\Assignment3_Lab3A.pdb
+C:\Users\lenovo\source\repos\Assignment3_Lab3A\Assignment3_Lab3A\obj\Debug\Assignment3_Lab3A.csproj.AssemblyReference.cache
+C:\Users\lenovo\source\repos\Assignment3_Lab3A\Assignment3_Lab3A\obj\Debug\Assignment3_Lab3A.csproj.SuggestedBindingRedirects.cache
+C:\Users\lenovo\source\repos\Assignment3_Lab3A\Assignment3_Lab3A\obj\Debug\Assignment3_Lab3A.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\Assignment3_Lab3A\Assignment3_Lab3A\obj\Debug\Assignment3_Lab3A.exe
+C:\Users\lenovo\source\repos\Assignment3_Lab3A\Assignment3_Lab3A\obj\Debug\Assignment3_Lab3A.pdb
